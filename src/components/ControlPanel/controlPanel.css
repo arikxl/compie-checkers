@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.btns-container {
+    margin: 20px auto;
+    display : flex;
+    justify-content: center;
+}
+
+.btn {
+    display: flex;
+    flex: 1;
+    padding: 5px 10px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    display: inline-block;
+    outline: none;
+    color: white;
+    border: 2px solid burlywood;
+    background: burlywood;    
+    font-size: 1rem;  
+}
+.btn:hover {
+  background: white;
+  color: burlywood
+}
+
+.start-btn {
+    border: 2px solid brown;
+    background: brown;   
+}
+
+.start-btn:hover {
+    background: white;
+    color: brown
+}

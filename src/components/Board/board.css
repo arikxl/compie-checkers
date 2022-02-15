@@ -1,0 +1,26 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 auto;
+}
+.wrapper{
+    background-color: transparent;
+}
+.board-container {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(8, 3rem);
+    grid-template-rows: repeat(8, 3rem);
+}
+
+.black-tile {
+    background-color: brown;
+}
+
+.white-tile {
+    background-color: burlywood;
+}
