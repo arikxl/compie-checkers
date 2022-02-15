@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compie-checkers/static/css/main.ecb43008.css",
+    "main.js": "/compie-checkers/static/js/main.b158eedf.js",
+    "index.html": "/compie-checkers/index.html",
+    "main.ecb43008.css.map": "/compie-checkers/static/css/main.ecb43008.css.map",
+    "main.b158eedf.js.map": "/compie-checkers/static/js/main.b158eedf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecb43008.css",
+    "static/js/main.b158eedf.js"
+  ]
+}
